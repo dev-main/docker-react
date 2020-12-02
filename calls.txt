@@ -24,3 +24,5 @@ sudo npm install --save --save-exact react-scripts@4.0.1
  docker run -p 8080:80 96bd9e7feb3c
 
  git remote add origin git@github.com:dev-main/docker-react.git:dev-main
+
+ git push origin master
